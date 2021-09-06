@@ -1,3 +1,5 @@
+package balls;
+
 public class Ball {
     private String type;
     private Integer radius;

@@ -1,3 +1,7 @@
+package balls;
+
+import balls.Ball;
+
 public class Test {
     public static void main(String[] args) {
         Ball ball1 = new Ball("basketball", 20);
